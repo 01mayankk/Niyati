@@ -102,4 +102,4 @@ npm run package
 Internal / Private - NIYATI – Your Destiny Dashboard.
 
 ## ✍️ Author
-Designed & Developed by Antigravity.
+Designed & Developed by Mayank.
